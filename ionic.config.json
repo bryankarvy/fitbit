@@ -1,0 +1,8 @@
+{
+  "name": "fitbit",
+  "app_id": "1a6f39ff",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
